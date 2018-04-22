@@ -1,4 +1,3 @@
 # test
 
-hello,world!
-nihao
+你好世界
